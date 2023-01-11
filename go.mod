@@ -1,4 +1,4 @@
-module p2p-example
+module github.com/samer955/gomdnsdisco
 
 go 1.19
 
