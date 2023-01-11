@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
+	"github.com/samer955/gomdnsdisco/service"
 	"os"
 	"os/signal"
-	"p2p-example/service"
 	"syscall"
 )
 

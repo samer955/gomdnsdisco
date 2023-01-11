@@ -4,10 +4,10 @@ import (
 	"context"
 	"fmt"
 	psub "github.com/libp2p/go-libp2p-pubsub"
+	"github.com/samer955/gomdnsdisco/metrics"
+	"github.com/samer955/gomdnsdisco/node"
+	"github.com/samer955/gomdnsdisco/pubsub"
 	"log"
-	"p2p-example/metrics"
-	"p2p-example/node"
-	"p2p-example/pubsub"
 	"time"
 )
 
